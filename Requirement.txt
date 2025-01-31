@@ -1,0 +1,8 @@
+gymnasium
+matplotlib
+seaborn
+pandas
+pygame
+pyvirtualdisplay
+numpy
+ipython
