@@ -125,6 +125,11 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 🚀 Contributions are welcome! 
 Submit a PR or open an issue to collaborate. Let’s build smarter
 
+---
+## 📨 Contact
+
+You can reach me via email at [ahtishamsudheer@gmail.com](mailto:ahtishamsudheer@gmail.com).
+
 
 
 
