@@ -2,7 +2,9 @@
 ### 🤖🛤️🏁 Autonomous decision-making for smarter urban mobility  of Taxi/Cab
 
 ![Python](https://img.shields.io/badge/Python-3.10.12-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-Q%20Learning-FF6F00?style=for-the-badge)  ![Gymnasium](https://img.shields.io/badge/OpenAI_Gymnasium-Taxi--v3-0081A7?style=for-the-badge)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C?style=for-the-badge)  ![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Visualization-3776AB?style=for-the-badge)  ![Pygame](https://img.shields.io/badge/Pygame-Interactive_Simulation-FFCC00?style=for-the-badge)  
+![Pygame](https://img.shields.io/badge/Pygame-Interactive_Simulation-FFCC00?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical_Visualization-3776AB?style=for-the-badge)          
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-11557C?style=for-the-badge)  ![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge)
+
 
 ---
 
